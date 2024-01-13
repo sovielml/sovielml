@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sovielml
+- 👀 I’m interested in intelligent machines
+- 🌱 I’m currently learning... and learning... and learning...
